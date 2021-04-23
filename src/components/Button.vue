@@ -21,7 +21,7 @@ export default {
   components: {},
   methods: {
     onClick() {
-      console.log('clicked')
+      this.$emit('btn-click')
     },
   }
   
