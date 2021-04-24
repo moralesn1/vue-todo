@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Dogecoin conference",
+      "day": "March 3rd at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Food Shopping",
+      "day": "March 3rd at 11:00am",
+      "reminder": false
+    },
+    {
+      "text": "Is this working now",
+      "day": "cool",
+      "reminder": true,
+      "id": "yPrD8Wn"
+    }
+  ]
+}
