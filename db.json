@@ -17,12 +17,6 @@
       "text": "Food Shopping",
       "day": "March 3rd at 11:00am",
       "reminder": false
-    },
-    {
-      "text": "Is this working now",
-      "day": "cool",
-      "reminder": true,
-      "id": "yPrD8Wn"
     }
   ]
 }
